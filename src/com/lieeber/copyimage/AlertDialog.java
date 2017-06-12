@@ -9,6 +9,7 @@ public class AlertDialog extends JDialog {
     private JButton buttonOK;
     private JButton buttonCancel;
     private JLabel lblabel;
+    private JRadioButton radioButton1;
 
     public AlertDialog() {
         setContentPane(contentPane);
